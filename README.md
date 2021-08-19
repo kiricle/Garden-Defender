@@ -1,5 +1,5 @@
 # Garden-Defender
-This repository contains code of the tower-defense game with a basic resource system, which i made during the [course on Udemy on Unity and C#](https://www.udemy.com/course/unitycourse/learn/lecture/12802673#overview).
+This repository contains code of the tower-defense game with a basic resource system, which i made during the [course on Udemy on Unity and C#](https://www.udemy.com/course/unitycourse/).
 
 I have learnt such things as:
 
